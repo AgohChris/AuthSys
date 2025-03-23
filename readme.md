@@ -3,7 +3,7 @@
 
      'default':{
         'ENGINE': 'mysql.connector.django',
-        'NAME': 'doc_sharing',
+        'NAME': 'AuthSys',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
